@@ -6,3 +6,6 @@ les trois commandes de push :
  - git add .
  - git commit -m "message"
  - git push -u origin main 
+
+commande pour pull :
+git pull origin main
