@@ -9,3 +9,9 @@ les trois commandes de push :
 
 commande pour pull :
 git pull origin main
+
+commande pour créer une brache :
+ git branche nom-branch
+
+commande pour switcher de branch:
+ git switch nom_branch 
