@@ -1,0 +1,8 @@
+commande pour cloner :
+git clone  https://liens-vers-le-repository
+
+
+les trois commandes de push :
+ - git add .
+ - git commit -m "message"
+ - git push -u origin main 
